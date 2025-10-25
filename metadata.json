@@ -1,0 +1,5 @@
+{
+  "name": "Ethical AI & Energy Policy Analyzer",
+  "description": "An advanced tool that leverages AI to conduct a comprehensive ethical analysis of research and policies at the intersection of artificial intelligence and energy. Users can input text to receive a structured breakdown based on multiple ethical frameworks.",
+  "requestFramePermissions": []
+}
